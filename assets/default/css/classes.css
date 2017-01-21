@@ -1,0 +1,41 @@
+.class-add-content{
+	 padding-bottom: 55px;
+}
+.class_search_form{
+	margin-top:30px;
+}
+.class-detail{
+	border-top: 1px solid #3034ee;
+	background:none repeat scroll 0 0 whitesmoke;
+	padding:10px;
+}
+.class-detail .table{
+	margin-bottom: 0px;
+} 
+.class-detail .table td{
+	border-top:none;
+	vertical-align: middle;
+} 
+.class-detail img{
+	cursor: pointer;
+}
+.class-list{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#class-add-form .control-group {
+	min-height: 65px;
+}
+
+.add-class-heading{
+	background: none repeat scroll 0 0 #3034ee;
+    color: #fdf3f3;
+    font-weight: bold;
+    text-align: center;
+}
+
+.class-groups{
+    height: 50px;
+    
+}

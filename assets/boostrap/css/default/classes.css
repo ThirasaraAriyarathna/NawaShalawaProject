@@ -1,0 +1,53 @@
+.class-name{
+    margin-left: 5px;
+    margin-top: 10px;
+    color: #428BCA;
+}
+.class-des{
+    margin-left: 5px;
+    color: #B5B4B4;
+}
+.class-item{
+    text-decoration: none;
+}
+.class-item:hover{
+    text-decoration: none;
+}
+.class-teacher{
+
+    color: black;
+}
+.class-actions i{
+    color: #3E3E3E;
+}
+.class-actions .fa-circle{
+    color: #49C573;
+}
+.class-actions .fa-circle-thin{
+    color: #49C573;
+}
+.class-actions a:hover{
+    text-decoration: none;
+    text-underline-position: none;
+    text-align: right;
+    vertical-align: bottom;
+}
+.dashboard-menu-item{
+    border: 1px solid;
+    height: auto;
+    min-height: 130px;
+}
+.class-groups{
+    min-height: 50px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+.col-filter_student{
+    width: 18%;
+    float: left;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+}

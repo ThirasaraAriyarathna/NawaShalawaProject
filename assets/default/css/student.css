@@ -1,0 +1,58 @@
+.student_form{
+    padding-top: 20px;
+}
+.student_form label{
+    cursor: default;
+}
+.section{
+    width: 100%;
+}
+.input_entity{
+    padding-top: 20px;
+     padding-right: 50px;
+}
+.input-lable{
+    width: 110px;
+}
+.section-heading{
+    color: blue;
+    padding-top: 20px;
+    font-weight: bold;
+}
+.input-check-lable{
+    width: 220px;
+}
+.btn-section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-right: 30px;
+}
+.btn-section button{
+    margin-right: 15px;
+}
+.student_search_form{
+    margin-top: 20px;
+}
+.search-result
+{
+    padding-top:50px;
+}
+.search-result a {
+    color: #333333;
+}
+.student-detail-body a:hover, a:focus {
+    text-decoration: none;
+	color : white;
+}
+.student-detail-body a:active{
+    text-decoration: none;
+	color : white;
+}
+.class_group_container{
+    border:  2px solid #dff0d8;
+    height: 150px;
+}
+.margin-top-10{
+    margin-top: 10px;
+    
+}

@@ -1,0 +1,66 @@
+.student_form{
+    padding-top: 20px;
+}
+.student_form label{
+    cursor: default;
+}
+.section{
+    width: 100%;
+}
+.input_entity{
+    padding-top: 20px;
+     padding-right: 50px;
+}
+.input-lable{
+    width: 110px;
+}
+.section-heading{
+    color: blue;
+    padding-top: 20px;
+    font-weight: bold;
+}
+.input-check-lable{
+    width: 220px;
+}
+.btn-section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-right: 30px;
+}
+.btn-section button{
+    margin-right: 15px;
+}
+.attendance_form{
+    margin-top: 20px;
+}
+.attendance-detail{
+    margin-top: 20px;
+    border-top:  1px solid #ddd;
+        border-left :  1px solid #ddd;
+    border-bottom:   1px solid #ddd;
+    width:90%;
+    margin-left: 20px;
+}
+.attendance-detail > nav{
+    margin: 0px;
+}
+
+.attendance-detail > a {
+    color: white;
+    text-decoration: none;
+}
+.attendance-detail > nav-tabs > .active > a, .nav-tabs > .active > a:hover, .nav-tabs > .active > a:focus {
+    background: transparent;
+}
+.red-tab{
+    background: none repeat scroll 0 0 red;
+    border: 1px solid;
+ 
+    padding: 8px;
+}
+.green-tab{
+   background: none repeat scroll 0 0 green;
+    border: 1px solid;
+ 
+    padding: 8px; 
+}

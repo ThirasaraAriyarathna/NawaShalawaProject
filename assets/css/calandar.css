@@ -1,0 +1,90 @@
+#content_wrapper .col-left{
+    width: 75%;
+    height: auto;
+}
+#content_wrapper .col-right{
+    width: 25%;
+    height: auto;
+}
+.col-left .calander{
+    padding-top: 20px;
+}
+#calendar-legend{
+     height: 36px;
+    padding-left: 144px;
+}
+#calendar-legend .legend-symbol{
+     padding: 3px;
+}
+
+#calendar-legend .legend-icon{
+    height: 12px;
+    margin: 7px 3px 3px;
+    width: 12px;
+}
+
+#calendar-legend .legend-entry {
+    font-weight: bold;
+    width: 150px;
+}
+
+#head-month {
+    background: none repeat scroll 0 0 #C3D9FF;
+    height: 60px;
+    width: 100%;
+}
+.header {
+    margin: 0 auto 20px;
+    padding: 15px;
+    width: 420px;
+}
+.next a {
+    background: none repeat scroll 0 0 #FFFFFF;
+    color: #121212;
+    display: block;
+    float: left;
+    font-size: 22px;
+    height: 25px;
+    outline: medium none;
+    padding: 5px;
+    text-align: right;
+    text-decoration: none;
+    width: 25px;
+}
+.prev a {
+    background: none repeat scroll 0 0 #FFFFFF;
+    color: #121212;
+    display: block;
+    float: left;
+    font-size: 22px;
+    height: 25px;
+    outline: medium none;
+    padding: 5px;
+    text-align: left;
+    text-decoration: none;
+    width: 25px;
+}
+.next a:hover, .prev a:hover {
+    color: #9B0C12;
+}
+.month {
+    background: none repeat scroll 0 0 #FFFFFF;
+    color: #121212;
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 20px;
+    padding: 5px 0;
+    text-align: center;
+    width: 300px;
+}
+
+table#calendar-table {
+    background: none repeat scroll 0 0 #C3D9FF;
+    padding: 10px;
+}
+#spacedivider{
+    width: 100%;
+     float: left;
+    height: 20px;
+}

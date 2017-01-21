@@ -1,0 +1,3 @@
+-- Add admin user (username - admin , password - pa55word )
+INSERT INTO `users` (`UserId`, `UserName`, `Password`, `Salt`, `UserType`, `DateAdded`, `AddedBy`) VALUES (NULL, 'admin', 'ae197286181706e9c076b0d6d88ec9d58dc3f321', '4ed498e3a3', '1', '0', '0');
+INSERT INTO `assistants` (`AssistantId`, `FirstName`, `UserId`, `Phone`, `Email`, `Description`, `IsActive`) VALUES (NULL, 'Admin', '1', NULL, NULL, NULL, b'1');

@@ -1,0 +1,228 @@
+
+#footer{
+     background: url("../images/login/form_bg.jpg") repeat-x scroll 0 0 #357ebd;
+     height: 50px;
+     width: 100%;
+     position: fixed;
+     bottom: 0;
+}
+
+body {
+    background: none repeat scroll 0 0 #F4F3EE;
+}
+.page_wrapper{
+ 
+    background-color: white;
+    margin-top: 80px;
+    padding: 30px 10% 20px;
+}
+
+.menu_bar{
+    padding-top: 20px;
+    width: 100%;
+    height:80px;
+}
+.menu_bar label{
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    padding-left: 10px;
+}
+.menu-level{
+    width: 100%;
+    height: auto;
+}
+.menu-level2 {
+    
+    width: 100%;
+    height: auto;
+}
+.menu-level2 a {
+    background: white;
+    color: blue;
+    padding: 10px;
+    cursor: pointer;
+}
+.more-detail{
+     margin-left: 100px;
+    margin-top: 8px;
+}
+.left-menu{
+    width: 50%;
+}
+ .menu-level2 .search-area{
+    height: 28px;
+    width: 350px;
+}
+
+.sub-menus{
+    color: #FFFFFF;
+    float: right;
+    font-size: 0.8em;  
+}
+.sub-menus p{
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+.sub-menus a{
+    cursor: pointer;
+    float: left;
+    overflow: hidden;
+    padding: 0 18px;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    padding-left: 10px;
+}
+.sub-menus a:hover{
+    text-decoration:  none;
+    color: white;
+        
+}
+.sub-menus .logout-btn{
+    background: url("../images/logout-icon.png") no-repeat scroll left 2px rgba(0, 0, 0, 0);
+}
+
+.sub-menus .profile-name-btn{
+    background: url("../images/profile-icon.png") no-repeat scroll left 2px rgba(0, 0, 0, 0);
+}
+.sub-menue-bar{
+float: left;    
+}
+
+sub-menue-bar a{
+    background: white;
+}
+
+.page_wrapper .content{
+    padding-top: 20px;
+}
+.extender {
+    clear: both;
+    height: 1px;
+}
+
+.required{
+    color:red;
+    font-weight: bold;
+}
+
+#content-header h1 {
+    color: #999999;
+    display: block;
+    font-size: 22px;
+   
+}
+
+#content-header h3 {
+    color: #BB0000;
+    font-size: 17px;
+    
+} 
+#content-header ul{
+   padding-left: 12px; 
+}
+.div_divider{
+    background: blue;
+    height: 2px;
+    width: 100%;
+}
+#search-text
+{
+    height: 30px;
+    width: 300px;
+}
+
+.clear-fix{
+    margin-bottom: 60px;
+}
+
+.margin-left-zero{
+	margin-left:0px;
+}
+
+.verticalLine {
+    border-right: thick solid blue;
+	 padding-right: 25px;
+}
+
+.navbar-properties{
+    background-color: #428bca;
+    border-color: #e7e7e7;
+
+}
+.navbar-properties .navbar-inner{
+    border-color: #e7e7e7;
+    background: #428bca none repeat scroll 0 0;
+
+}
+
+.container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
+    width: 1130px;
+}
+
+.navbar-properties .brand {
+    color: white;
+    font-size: 18px;
+    text-shadow: 0 0 0;
+    font-weight:normal;
+    padding: 15px;
+}
+.navbar-properties  .nav > li {
+    line-height: 30px;
+}
+.navbar-properties .nav > li > a{
+    color: white;
+     text-decoration: none;
+      text-shadow: 0 0 0;
+    font-weight:normal;
+}
+
+.navbar-properties .nav li.dropdown > .dropdown-toggle .caret {
+    border-bottom-color: white;
+    border-top-color: white;
+     color: white;
+    vertical-align: middle;
+   margin-top: 0;
+}
+.caret {
+    vertical-align: middle;
+}
+
+
+
+.navbar-properties .nav > li > a:hover{
+    color: #428bca;
+     text-decoration: none;
+      text-shadow: 0 0 0;
+    font-weight:normal;
+}
+
+.navbar-properties .nav > li > a {
+     text-decoration: none;
+      text-shadow: 0 0 0;
+    font-weight:normal;
+    color: white;
+}
+.navbar-properties .navbar-brand {
+     text-decoration: none;
+      text-shadow: 0 0 0;
+    font-weight:normal;
+    color: white;
+}
+.navbar-properties .nav > li .active > a, .navbar-properties .navbar-nav > .active > a:hover, .navbar-properties .navbar-nav > .active > a:focus {
+    background-color: #e7e7e7;
+    color: #555;
+     text-decoration: none;
+      text-shadow: 0 0 0;
+    font-weight:normal;
+}
+.navbar-properties .nav > li > a:hover,
+.navbar-properties .nav > li > a:focus {
+  text-decoration: none;
+  background-color: #eeeeee;
+   text-decoration: none;
+      text-shadow: 0 0 0;
+    font-weight:normal;
+}
